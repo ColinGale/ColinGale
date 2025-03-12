@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Colin Gale!  
 
-<!--
-**ColinGale/ColinGale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Physics & Computer Science Major** at the **University of Arizona**  
+🔬 Passionate about **Quantum Mechanics, Quantum Computing, Machine Learning, Web Scraping, and Data Science**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I enjoy solving complex problems using **data-driven approaches** and developing innovative tools that bridge the gap between **physics and computing**.  
+
+### 🛠 **Skills & Technologies**  
+- **Languages**: Python, C, Java  
+- **Libraries & Tools**: scikit-learn, Pandas, NumPy, BeautifulSoup, urllib  
+- **Fields of Interest**:  
+  - 🧠 **Machine Learning & AI**  
+  - ⚛️ **Quantum Computing & Mechanics**  
+  - 📊 **Data Science & Analytics**  
+  - 🌎 **Web Scraping & Automation**  
+
+---
+
+## 🔥 What I'm Working On  
+### 🏀 **NCAA Basketball Predictor**  
+A **Random Forest Classifier** model that uses **advanced team metrics** to predict NCAA basketball game outcomes. This project applies **data science and machine learning** to analyze past performance and generate predictions.  
+
+---
+
+## 📫 Connect with Me  
+📩 **Email**: [colingale1201@gmail.com](colingale1201@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/colingale](https://www.linkedin.com/in/colin-gale-865957355/)   
+
