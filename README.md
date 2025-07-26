@@ -33,7 +33,7 @@ A custom-built Java chess engine featuring **bitboard-based move generation**, *
 - Future updates planned: **Zobrist hashing**, **advanced evaluation heuristics**, and **multithreaded root search**  
 - GUI included — built with Java Swing  
 
-📌 [View the GamBit README](https://github.com/ColinGale/GamBit-Chess#readme)
+📌 [View the GamBit README](https://github.com/ColinGale/GamBit-Chess-Engine/blob/main/README.md)
 
 ---
 
