@@ -29,7 +29,7 @@ A **Random Forest Classifier** model that uses **advanced team metrics** to pred
 ### ♟️ GamBit Chess Engine  
 A custom-built Java chess engine featuring **bitboard-based move generation**, **negamax with alpha-beta pruning**, and **quiescence search**.  
 - Uses **MVV_LVA move ordering** and **bitwise optimization** for efficient evaluation  
-- Benchmarked at ~**1.1 million nodes/sec**, evaluated around **2000–2250 ELO**  
+- Benchmarked at ~**150k+ nodes/sec**, evaluated around **2000–2250 ELO**  
 - Future updates planned: **Zobrist hashing**, **advanced evaluation heuristics**, and **multithreaded root search**  
 - GUI included — built with Java Swing  
 
