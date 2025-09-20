@@ -9,8 +9,8 @@
 I enjoy solving complex problems using **data-driven approaches** and developing innovative tools that bridge the gap between **physics and computing**.  
 
 ### 🛠 **Skills & Technologies**  
-- **Languages**: Python, C, Java  
-- **Libraries & Tools**: scikit-learn, Pandas, NumPy, BeautifulSoup, urllib  
+- **Languages**: Python, C/C++, Java  
+- **Libraries & Tools**: scikit-learn, Matplotlib, Pandas, NumPy, BeautifulSoup, urllib  
 - **Fields of Interest**:  
   - 🧠 **Machine Learning & AI**  
   - ⚛️ **Quantum Computing & Mechanics**  
@@ -21,11 +21,6 @@ I enjoy solving complex problems using **data-driven approaches** and developing
 
 ## 🔥 What I'm Working On  
 
-### 🏀 NCAA Basketball Predictor  
-A **Random Forest Classifier** model that uses **advanced team metrics** to predict NCAA basketball game outcomes. This project applies **data science and machine learning** to analyze past performance and generate predictions.  
-
-📌 [View the College Basketball Predictor README](https://github.com/ColinGale/College-Basketball-Predictor/blob/master/README.md)
-
 ### ♟️ GamBit Chess Engine  
 A custom-built Java chess engine featuring **bitboard-based move generation**, **negamax with alpha-beta pruning**, and **quiescence search**.  
 - Uses **MVV_LVA move ordering** and **bitwise optimization** for efficient evaluation  
@@ -34,6 +29,20 @@ A custom-built Java chess engine featuring **bitboard-based move generation**, *
 - GUI included — built with Java Swing  
 
 📌 [View the GamBit README](https://github.com/ColinGale/GamBit-Chess-Engine/blob/main/README.md)
+
+---
+
+## ✅ Completed Projects
+
+### 🏀 NCAA Basketball Predictor  
+A **Random Forest Classifier** model that uses **advanced team metrics** to predict NCAA basketball game outcomes. This project applies **data science and machine learning** to analyze past performance and generate predictions.  
+
+📌 [View the College Basketball Predictor README](https://github.com/ColinGale/College-Basketball-Predictor/blob/master/README.md)
+
+### ⚾ University of Arizona Hitter Report
+A visualization of batting data from Aaron Walton using **Matplotlib** for graphs and plots as well as **pandas** for efficient data manipulation.
+
+📌 [View the UA Hitter Report README](https://github.com/ColinGale/College-Basketball-Predictor/blob/master/README.md)
 
 ---
 
