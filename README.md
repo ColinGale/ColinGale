@@ -42,7 +42,7 @@ A **Random Forest Classifier** model that uses **advanced team metrics** to pred
 ### ⚾ University of Arizona Hitter Report
 A visualization of batting data from Aaron Walton using **Matplotlib** for graphs and plots as well as **pandas** for efficient data manipulation.
 
-📌 [View the UA Hitter Report README](https://github.com/ColinGale/College-Basketball-Predictor/blob/master/README.md)
+📌 [View the UA Hitter Report README](https://github.com/ColinGale/UArizonaBaseballHittingReport)
 
 ---
 
